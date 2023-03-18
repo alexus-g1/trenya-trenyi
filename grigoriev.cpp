@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//изменение в мэйн 1
 bool isPrime(int n) {
   if(n <= 1) {
     return false;
